@@ -39,7 +39,7 @@ cd hulu-webpage-clone
 ```
 
 ### Open the index.html file in your browser to view the webpage.
-
+          
 ## Project Structure
 ```plaintext
 hulu-webpage-clone
@@ -56,3 +56,11 @@ This section features a hero background with a call-to-action button, login butt
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+### Live Demo 
+
+## [Click here to see the live demo](https://codepen.io/solygambas/full/rNmmqBy)
+
+
+
