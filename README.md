@@ -1,4 +1,5 @@
 
+![Screenshot 2024-10-27 185200](https://github.com/user-attachments/assets/9811a409-0301-4b97-8475-7bbe3343d158)
 # Hulu Webpage Clone
 
 This project is a clone of the Hulu website, focusing on replicating the design and layout using HTML, CSS, and JavaScript. The clone includes various sections like the header, categories, live TV, and footer, complete with a responsive layout and interactive modal for user login.
