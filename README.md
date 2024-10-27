@@ -30,7 +30,7 @@ To get a local copy up and running, follow these simple steps:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/hulu-webpage-clone.git
+https://github.com/chandnyadav/second-demo.git
 ```
 
 ### Navigate into the project directory
